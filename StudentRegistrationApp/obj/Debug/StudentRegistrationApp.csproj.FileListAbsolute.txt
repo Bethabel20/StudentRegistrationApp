@@ -77,9 +77,9 @@ C:\Users\ghabtu\source\repos\StudentRegistrationApp\StudentRegistrationApp\bin\N
 C:\Users\ghabtu\source\repos\StudentRegistrationApp\StudentRegistrationApp\bin\Antlr3.Runtime.pdb
 C:\Users\ghabtu\source\repos\StudentRegistrationApp\StudentRegistrationApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\ghabtu\source\repos\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.csproj.AssemblyReference.cache
+C:\Users\ghabtu\source\repos\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.Migrations.InitialCreate.resources
+C:\Users\ghabtu\source\repos\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.csproj.GenerateResource.cache
 C:\Users\ghabtu\source\repos\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.csproj.CoreCompileInputs.cache
 C:\Users\ghabtu\source\repos\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\StudentR.64B003F9.Up2Date
 C:\Users\ghabtu\source\repos\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.dll
 C:\Users\ghabtu\source\repos\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.pdb
-C:\Users\ghabtu\source\repos\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.Migrations.InitialCreate.resources
-C:\Users\ghabtu\source\repos\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.csproj.GenerateResource.cache
